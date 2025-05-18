@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.13.0"
+    
+  },
+  "name": "projeto-spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+   
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Luakenai/spotify-projeto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Luakenai/spotify-projeto/issues"
+  },
+  "homepage": "https://github.com/Luakenai/spotify-projeto#readme"
+}
